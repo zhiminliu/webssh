@@ -1,6 +1,6 @@
 # wessh
 # 环境?
-# linux(python2.6 python2.7) windows(无) mac(无)
+# linux(python2.7) windows(无) mac(无)
 # 需要安装的依赖库?
 # pip install tornado ; pip install paramiko;
 # 如何使用?
